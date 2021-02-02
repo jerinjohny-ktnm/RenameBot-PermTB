@@ -1,7 +1,7 @@
 class script(object):
     START_TEXT = """ <b>Hii, I am a simple renamer bot with permanent thumbnail support.</b>
 
-<b>Send me any Telegram file and choose appropriate option! </b>"""
+<b>Send me any Telegram file and choose appropriate option!</b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "CONTACT @imjerin"
@@ -15,7 +15,7 @@ class script(object):
     CUSTOM_CAPTION_UL_FILE = " "
     HELP_USER = """<b>Instructions Below</b>
     
-<b>1. Send me the thumnail (Optional).</b>
+<b>1. Send me the thumbnail (Optional).</b>
 
 <b>2. Send me any telegram file.<b>
 
