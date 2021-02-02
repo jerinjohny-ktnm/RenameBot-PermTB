@@ -17,7 +17,7 @@ class script(object):
     
 <b>1. Send me the thumbnail (Optional).</b>
 
-<b>2. Send me any telegram file.<b>
+<b>2. Send me any telegram file.</b>
 
 <b>3. Choose appropriate option.</b>"""
 
