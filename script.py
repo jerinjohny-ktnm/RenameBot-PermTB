@@ -15,6 +15,9 @@ class script(object):
     CUSTOM_CAPTION_UL_FILE = " "
     HELP_USER = """<b>Instructions Below</b>
     
-<b>1. Send me any Telegram File.</b>
-<b>2. Choose appropriate option.</b>"""
+<b>1. Send me the thumnail (Optional).</b>
+
+<b>2. Send me any telegram file.<b>
+
+<b>3. Choose appropriate option.</b>"""
 
